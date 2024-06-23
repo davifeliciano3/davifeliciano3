@@ -2,7 +2,7 @@
 
 
 ### Olá eu sou o Davi Feliciano 👋🏽
-[![Portifolio](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://davifeliciano.com)
+[![Portifolio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://davifeliciano.com)
 [![LinkDin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/feliciano-davi/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.linkedin.com/in/feliciano-davi/)
 
